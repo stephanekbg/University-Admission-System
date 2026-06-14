@@ -11,3 +11,9 @@ score ≥ 75 AND extracurricular → accepted
 otherwise → rejected
 
 👉 Add explanation message for each decision
+
+# we want to change some things
+
+if the score is 90 , we don't want to ask questions about extracurricular
+
+let's fix that
